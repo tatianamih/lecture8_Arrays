@@ -3,7 +3,6 @@ package jrr.by.service;
 public class Copy {
     public int copyInRangeRunLenghtOfNewArray(int[] array, int leftBound, int rightBound){
         int newArraySize = 0;
-
         for (int j = 0; j < array.length; j++){
             for (int i = leftBound; i<= rightBound; i++){
 
