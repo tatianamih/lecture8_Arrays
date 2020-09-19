@@ -14,7 +14,6 @@
         <sonar.login>a2f7b974568db8508850d00ba5c455ae2a74ecbb</sonar.login>
     </properties>
 
-
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
