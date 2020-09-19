@@ -15,7 +15,6 @@ public class CopyTest {
         assertArrayEquals(expected, actual);
     }
 
-
     @Test
     public void copyInRangeRunLenghtOfNewArray() {
         Copy copy = new Copy();
